@@ -1,1 +1,68 @@
-How will you ensure users can access their files from any domain attached system?
+Standard Operating Procedure (SOP): Enabling Cross-Domain File Access for Users
+
+Purpose:
+To ensure that users can access their files from any domain-attached system within the organization, improving productivity and user experience.
+
+Scope:
+Applies to all employees and users requiring access to files from different domain-attached systems.
+
+Responsibilities:
+
+IT Department:
+
+Implement infrastructure and configurations for cross-domain file access.
+Ensure file access security and integrity.
+Provide user support and troubleshooting.
+System Administrators:
+
+Configure domain-attached systems for cross-domain file access.
+Monitor system performance and file access logs.
+Collaborate with IT for issue resolution.
+Users:
+
+Adhere to file access policies.
+Report file access issues to IT.
+Prerequisites:
+
+Access to domain-attached systems.
+Knowledge of file sharing protocols and network permissions.
+Procedures:
+
+Infrastructure Setup:
+
+Assess existing file storage and sharing infrastructure.
+Choose a suitable solution (e.g., file server, cloud storage).
+Set up servers, storage devices, and network configurations.
+User Authentication and Authorization:
+
+Implement unified authentication (e.g., Single Sign-On).
+Configure user accounts and permissions.
+Integrate authentication with domain-attached systems.
+File Synchronization and Replication:
+
+Establish synchronization or replication mechanisms.
+Use technologies like Distributed File System (DFS) or file synchronization tools.
+Network Connectivity:
+
+Configure network connectivity between domain-attached systems.
+Set up appropriate file sharing protocols (e.g., SMB, NFS).
+Testing and Verification:
+
+Conduct thorough testing of cross-domain file access.
+Verify seamless access from any domain-attached system.
+Test under different network conditions.
+Training and User Support:
+
+Provide user training and documentation.
+Offer support for file access queries and issues.
+References:
+
+Relevant documentation and guidelines for cross-domain file access.
+Definitions:
+
+Single Sign-On (SSO): Centralized authentication for accessing multiple systems with a single set of credentials.
+Distributed File System (DFS): Technology for organizing and replicating files across multiple servers.
+Server Message Block (SMB): Network file sharing protocol.
+Network File System (NFS): Distributed file system protocol for accessing files over a network.
+
+(Last edited by Colin Wilde 6/20)
