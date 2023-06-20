@@ -1,1 +1,59 @@
 How will you manage and maintain network security?
+
+Purpose:
+To ensure the confidentiality, integrity, and availability of the organization's network infrastructure and data.
+
+Scope:
+Applies to all employees, contractors, and third-party vendors with network access.
+
+Responsibilities:
+
+Network Administrator:
+
+Design, implement, and maintain network security measures.
+Monitor network traffic and security logs.
+Install security patches and conduct vulnerability assessments.
+IT Department:
+
+Assist in implementing security measures.
+Manage firewall rules and network performance.
+Respond to and investigate security incidents.
+Employees:
+
+Adhere to network security policies.
+Use strong passwords and report suspicious activities.
+Procedures:
+
+Firewalls:
+
+Implement and update firewall rules.
+Allow necessary services and ports.
+Access Control:
+
+Enforce strict access control policies.
+Implement authentication mechanisms.
+Network Monitoring:
+
+Deploy monitoring tools.
+Set up intrusion detection systems.
+Vulnerability Management:
+
+Regularly scan for vulnerabilities.
+Prioritize and apply security patches.
+Security Awareness and Training:
+
+Conduct regular training sessions.
+Raise awareness about common threats.
+Incident Response:
+
+Establish reporting and response process.
+Investigate, mitigate, and learn from incidents.
+References:
+[Include relevant references and guidelines.]
+
+Definitions:
+
+Firewall: Network security device filtering traffic.
+Access Control: Restricting user permissions based on identity.
+
+(Last edited by Colin Wilde 6/20)
