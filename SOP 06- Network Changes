@@ -1,1 +1,45 @@
 How will you manage change to the network (such as hardware, software, or configuration changes) while minimizing network disruptions and downtime?
+
+# SOP: Managing Network Changes with Minimal Disruptions and Downtime
+
+## Purpose:
+This SOP outlines the process for managing network changes (hardware, software, and configuration) to minimize disruptions and downtime.
+
+Responsibilities:
+
+Network Administrators: Plan, execute, and monitor network changes.
+Change Control Board: Review and approve change requests.
+Network Operations Team: Monitor network performance and address issues.
+Change Management Process:
+3.1. Request Submission:
+Initiator submits a detailed change request form.
+Form includes purpose, impact analysis, timeline, testing, and documentation.
+3.2. Change Review and Approval:
+
+Change Control Board reviews and approves or rejects the request.
+3.3. Change Implementation:
+
+Network administrator prepares a detailed implementation plan.
+Implementation scheduled during low-impact hours.
+Back up systems and configurations.
+Follow the approved plan and document progress.
+3.4. Testing and Validation:
+
+Conduct comprehensive testing and validation.
+Verify functionality, stability, and performance.
+Address any issues or discrepancies.
+3.5. Monitoring and Post-Implementation:
+
+Network Operations Team monitors network performance.
+Investigate and resolve unexpected issues.
+Update documentation and configurations.
+Conduct post-implementation review and document lessons learned.
+Emergency Changes:
+Follow an expedited procedure for urgent changes.
+Document and communicate with the Change Control Board.
+Conduct post-implementation analysis and seek retroactive approval.
+Training and Awareness:
+Provide regular training and awareness sessions.
+Ensure familiarity with the SOP and adherence to procedures.
+Compliance and Audit:
+Conduct regular audits and ensure compliance with the SOP.
