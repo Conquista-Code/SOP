@@ -1,0 +1,69 @@
+# Network Account Termination Process
+
+#### Organization: Conquista Code
+
+## Purpose:
+The purpose of this Standard Operating Procedure (SOP) is to establish a standardized process for handling network account termination of employees within Conquista Code. This procedure ensures the secure and efficient removal of network access for terminated employees, safeguarding company data and resources.
+
+## Scope:
+This SOP applies to all departments and employees within Conquista Code who have access to the organization's network and related resources.
+
+## Responsibilities:
+
+### Human Resources (HR) Department:
+
+Initiate the network account termination process by notifying the IT department of an employee's termination.
+Provide the necessary information, such as the employee's name, department, position, and termination date, to the IT department.
+Coordinate with the IT department to ensure a smooth transition during the account termination process.
+Maintain records of terminated employees and their respective termination dates.
+
+### IT Department:
+
+Receive the termination notification from the HR department.
+Disable the network access for the terminated employee within 24 hours of receiving the notification.
+Remove the employee's network account, including all associated user privileges and access rights.
+Ensure that the terminated employee's account is removed from all relevant systems, applications, and databases.
+Archive or transfer any critical data or files associated with the terminated employee's role, as per company policies and legal requirements.
+Document the network account termination process and maintain records for future reference.
+Communicate the completion of the account termination process to the HR department.
+
+## Prerequisites:
+
+The HR department must provide accurate and timely information regarding the terminated employee, including their name, department, position, and termination date.
+The IT department must have administrative access and control over the network infrastructure, systems, applications, and databases.
+
+## Procedures:
+
+### HR Department Procedures:
+
+Notify the IT department of the employee's termination using the designated communication channel or form.
+Provide accurate and complete information regarding the terminated employee, including their name, department, position, and termination date.
+Ensure that all required documentation related to the employee's termination is properly recorded and filed.
+
+### IT Department Procedures:
+
+Upon receiving the termination notification, promptly acknowledge and confirm receipt with the HR department.
+Disable the network access for the terminated employee within 24 hours of receiving the notification.
+Remove the employee's network account, including all associated user privileges and access rights, from relevant systems, applications, and databases.
+Archive or transfer any critical data or files associated with the terminated employee's role, as per company policies and legal requirements.
+Document the entire account termination process, including specific actions taken and relevant timestamps.
+Notify the HR department upon completion of the account termination process.
+
+## References:
+
+Conquista Code HR Policies and Procedures Manual.
+Conquista Code IT Security Policy.
+Conquista Code Employee Handbook.
+
+## Definitions:
+
+#### HR Department: 
+The department within Conquista Code responsible for managing employee-related matters, including recruitment, hiring, onboarding, and termination.
+#### IT Department: 
+The department within Conquista Code responsible for managing the organization's information technology infrastructure, systems, applications, and networks.
+Network Account: A user account created for employees to access and utilize the organization's network resources, systems, and applications.
+Termination: The process of ending an employee's employment with Conquista Code, either voluntarily or involuntarily, which includes cessation of network account access.
+Access Rights: Privileges and permissions granted to users for accessing specific resources, systems, or applications
+
+
+(Natasha Siramarco 06/20/2023, ChatGPT assisted)
